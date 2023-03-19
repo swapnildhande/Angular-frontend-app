@@ -1,5 +1,5 @@
-#Creation and deployment of Angular frontend app using docker.
-#Requirements:
+# Creation and deployment of Angular frontend app using docker.
+# Requirements:
 1. Nodejs 
 	cmd to install Nodejs
 	-$ sudo apt install nodejs
