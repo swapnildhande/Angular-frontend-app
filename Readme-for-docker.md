@@ -8,7 +8,7 @@
 3. Angular CLI
 	cmd to install Angular CLI
 	```  -$ sudo npm install -g @angular/cli ```
-4. V S Code
+4. V S Code (Optional)
 5. Docker desktop
 6. NGINX
 
