@@ -2,13 +2,18 @@
 # Requirements:
 1. Nodejs 
 	cmd to install Nodejs
+  ```
 	-$ sudo apt install nodejs
+  ```
 2. NPM
 	cmd for NPM
-	-$ sudo apt install npm
+	```
+  -$ sudo apt install npm ```
+ 
 3. Angular CLI
 	cmd to install Angular CLI
-	-$ sudo npm install -g @angular/cli
+	```
+  -$ sudo npm install -g @angular/cli ```
 4. V S Code
 5. Docker desktop
 6. NGINX
